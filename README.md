@@ -1,0 +1,4 @@
+AkiraHandwritingFont
+====================
+
+Handwriting font ofAkira
